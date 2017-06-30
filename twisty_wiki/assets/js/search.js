@@ -130,6 +130,7 @@ function pp20Click() {
 
 function pp30Click() {
 	number_of_items = 30;
+	page = 1;
 	appendresult(ausgabearray, data, page, number_of_items);
 	updateButtons();
 }
