@@ -118,5 +118,11 @@ function adjustHeight() {
 	$("#maincontent").css("min-height", newHeight);
 }
 
-
-
+function scaleImages() {
+	$(".img-wrapper img").each(function(){
+		var height = parseInt($(this).css("height"));
+		var width = parseInt($(this).css("width"));
+		var width_overflow = (width-height)/2;
+		$(this).css("margin-left", -width_overflow + "px");
+	});
+}

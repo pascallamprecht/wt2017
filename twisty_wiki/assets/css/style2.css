@@ -173,10 +173,18 @@ nav li a::first-letter {
 	padding-bottom: 1em;
 }
 
-#searchresult article img {
+#searchresult article .img-wrapper {
+	display: block;
 	height: 4em;
+	width: 4em;
 	float: right;
 	margin-left: 1em;
+	overflow: hidden;
+}
+
+.img-wrapper img {
+	max-height: 100%;
+	margin-left: 0;
 }
 
 #maincontent p {
@@ -197,6 +205,12 @@ nav li a::first-letter {
 #maincontent input {
 	padding-left: 0.5em;
 	background-color: #888888;
+}
+
+#numberofresults {
+	display: block;
+	float: right;
+	padding-right: 1em;
 }
 
 #activepage button:first-child, #numberofitems button:first-child {

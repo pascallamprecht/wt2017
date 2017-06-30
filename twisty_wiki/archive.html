@@ -6,7 +6,7 @@
 	<script src='assets/js/jquery-3.2.1.min.js'></script>		<!-- jQuery -->
 	<script src='assets/js/md5.min.js'></script>				<!-- MD5-Encoding from CryptoJS -->
 	<script src='assets/js/main.js'></script>					<!-- Identischer Code für alle Seiten -->
-	<script src='assets/js/search.js'></script>					<!-- Code für diese Seite -->
+	<script src='assets/js/archive.js'></script>				<!-- Code für diese Seite -->
 </head>
 <body>
 	<div id="container">
@@ -18,8 +18,8 @@
 			<li><a href="index.html">Homepage</a></li>
 			<li><a id="randompage">Random Page</a></li>
 			<li><a id="potd">Page of the Day</a></li>
-			<li><a href="archive.html">Archive</a></li>
-			<li><a href="search.php" class="active">Search</a></li>
+			<li><a href="archive.html" class="active">Archive</a></li>
+			<li><a href="search.php">Search</a></li>
 		</ul>
 	</div>
 	<nav>
@@ -31,25 +31,9 @@
 	<div id="maincontent">
 		<section>
 			<div id="userinput">
-				<?php
-					function test_input($input) {
-						$input = trim($input);
-						$input = stripslashes($input);
-						$input = htmlspecialchars($input);
-						return $input;
-					}
+				<div id="pageconfig">
 					
-					if (empty($_GET["search"])) {
-						$searchstring = "";
-					}
-					else {
-						$searchstring = test_input($_GET["search"]);
-					}
-					echo "<input type='text' id='searchstring' value='" . $searchstring . "' size='50' maxlength='40'/>";
-				?>
-				<button onclick="search(getUserInput(), data);" id="searchbutton">Search</button>
-				<div id="numberofresults"></div>
-				<div id="pageconfig"></div>
+				</div>
 			</div>
 			<div id="searchresult">
 			</div>

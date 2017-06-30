@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function(){		//dieser Code ist sehr identisch zu search.js, die einzige Veränderung liegt darin, dass das Ausgabearray einfach mit allen IDs gefüllt wird
 	onload();
 });
 
@@ -10,6 +10,7 @@ function onload() {
 		setPOTD();
 		createNav(data);
 		number_of_items = 10;
+		showAll();
 	});
 }
 
@@ -18,22 +19,12 @@ function getUserInput() {
 	return inputstring;
 }
 
-function search(string, data) {
-	var i = 0;
+function showAll() {
 	ausgabearray = new Array();		//Array aller IDs der gefundenen Seiten
 	page = 1;
-	var json_id = null;
-	var search_expression = new RegExp(string, 'i');		//i = gross/kleinschreibung ignorieren
-	$.each(data, function(json_id, content) {
-		$.each(content.tags, function(number, tag) {
-			if (tag.search(search_expression) != -1) {
-				if (ausgabearray.indexOf(json_id) == -1) {		//nur hinzufügen wenn noch nicht im Array
-					ausgabearray[i] = json_id;
-					i++;
-				}
-			};
-		});
-	});
+	for (var i=0; i<$(data).length; i++) {
+		ausgabearray[i] = i;
+	}
 	ausgabearray.sort(function(a, b) {			//sortieren alphabetisch nach Name, da IDs nicht sortiert sind
 		var name_a = data[a].tags.name;
 		var name_b = data[b].tags.name;
@@ -63,10 +54,8 @@ function drawButtons() {
 	buttons += "<button id='30pp' onclick='pp30Click()'>30</button>";
 	buttons += "</p></div>";
 	$("#pageconfig").append(buttons);
-	
-	$("#numberofresults").empty();
-	var result_string = "<p>" + $(ausgabearray).length + " results found</p>";
-	$("#numberofresults").append(result_string);
+	var result_string = "<p id='numberofresults'>" + $(ausgabearray).length + " results found</p>";
+	$("#searchbutton").after(result_string);
 }
 
 function updateButtons() {
@@ -163,4 +152,3 @@ function appendresult(ausgabearray, data, page, number_of_items) {
 	}
 	scaleImages();
 }
-

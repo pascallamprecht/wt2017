@@ -1,31 +1,155 @@
+################
 Picture-Sources:
+################
 
 Logo:
+~~~~~
 Letters: Font
 Background: http://www.sweatshoppe.org/wp-content/uploads/2012/05/halftone_pattern_black_white_1.png
 
 
-
 Ad:
+~~~
 http://i2.kym-cdn.com/photos/images/original/000/326/426/506.jpg
 
 
-
-
+Puzzles:
+~~~~~~~~
 Rubiks Cube:
 a:
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/1200px-Rubik%27s_cube.svg.png
-
 b:
 http://www.stickpng.com/assets/images/580b585b2edbce24c47b2473.png
-
 c:
 https://t2.rbxcdn.com/46ec73dfd05d412c72764293a2956304
-
 
 
 Master Pyraminx:
 a:
 https://cdn.shopify.com/s/files/1/0169/0924/products/79209200z6x_1024x1024.jpg?v=1479698646
+
+
+Helicopter dodecahedron:
+a:
+https://static.wixstatic.com/media/6aa314_6e58f5e7eb1142699ded23dfc056f322~mv2.jpg/v1/fill/w_498,h_498,al_c,q_90/file.jpg
+b:
+https://static.wixstatic.com/media/6aa314_1b9954c09d0a4ab4864ec679f30ec713~mv2.jpg/v1/fill/w_498,h_498,al_c,q_90/file.jpg
+c:
+https://ae01.alicdn.com/kf/HTB1WjkqKXXXXXXHXFXXq6xXFXXXq/New-mf8-Helicopter-Dodecahedron-Megaminx-Magic-Cube-Spring-Puzzle-Twist-Game-Children-s-Cubo-Magico-Profissional.jpg
+d:
+https://s-media-cache-ak0.pinimg.com/originals/21/43/1b/21431b0cdd78f4fe948f8176d35d64bc.png
+
+
+Starminx 1:
+a:
+http://www.cubezz.com/images/201308/41678_0.jpg
+b:
+https://ae01.alicdn.com/kf/HTB1O38DKXXXXXc3XpXXq6xXFXXXn/MF8-Starminx-II-Deep-Cut-Dino-Dodecahedron-Cube-Puzzle-Cube-Magic-Toy-for-Learning-Education-Black.jpg
+c:
+http://cutcorner.com.ua/components/com_jshopping/files/img_products/full_megaminx_starminx_mf8_black_2.JPG
+
+
+Starminx 2:
+a:
+http://www.twistypuzzles.com/museum/large/02007-01.jpg
+b:
+https://i.ytimg.com/vi/NiXbDpU_FnU/hqdefault.jpg
+c:
+http://www.twistypuzzles.com/museum/large/02007-02.jpg
+d:
+http://www.twistypuzzles.com/museum/large/02007-06.jpg
+
+
+Starminx 3:
+a:
+http://www.twistypuzzles.com/museum/large/02008-01.jpg
+b:
+http://www.twistypuzzles.com/museum/large/02008-02.jpg
+
+
+Curvy Starminx:
+a:
+https://images-na.ssl-images-amazon.com/images/I/51Gt31uIkhL._SY355_.jpg
+b:
+http://www.cubepuzl.com/media/catalog/product/cache/7/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/c/u/cury_starminx_b2.jpg
+c:
+https://s-media-cache-ak0.pinimg.com/736x/77/82/84/77828446640355a197b77ea0becfe68d.jpg
+
+
+Dino Dodecahedron:
+a:
+http://cdn6.bigcommerce.com/s-49s8wb0y/products/344/images/2077/DSC_0223__85209.1468664287.500.750.jpg?c=2
+b:
+http://www.cubepuzl.com/media/catalog/product/cache/7/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/m/f/mf8_b3.jpg
+c:
+http://1.bp.blogspot.com/-8hGGw4nkYHI/UNcbM0cqgQI/AAAAAAAAD98/oSSDVa0WI0s/s1600/Corner+Turning+Starminx+Scrambled.JPG
+
+
+Bauhinia Dodecahedron:
+a:
+http://cubezz.com/images/201308/goods_img/3811_P_1377609788170.JPG
+b:
+https://cdn.shopify.com/s/files/1/0169/0924/products/MF8_Bauhinia_Rex_Dodecahedron_02_1024x1024.jpg?v=1375927698
+c:
+http://2.bp.blogspot.com/-5QhDBdeyvsw/Ucsf8Yx-UmI/AAAAAAAAE5E/5JKf51H13qQ/s1600/Bauhinia+Dodecahedron+Scrambled.jpg
+d:
+https://cdn.shopify.com/s/files/1/0169/0924/products/MF8_Bauhinia_Rex_Dodecahedron_01_1024x1024.jpg?v=1375927697
+
+
+Pentultimate:
+a:
+http://www.puzzleforge.com/images/photos/twistypuzzlesposts/pentv2/Picture2%20003.jpg
+b:
+https://cdn.shopify.com/s/files/1/0169/0924/products/729925088im_1024x1024.jpg?v=1475790575
+c:
+http://www.puzzleforge.com/wp/wp-content/uploads/2016/01/Picture1-063.jpg
+
+
+Master Pentultimate:
+a:
+http://tribox.com/wp-content/uploads/2014/10/Pentultimate_tribox_covered900.jpg
+b:
+http://www.thespeedcube.com/680-large_default/mf8-12-sided-dodecahedron-void-master-pentultimate-hollow-megaminx.jpg
+c:
+http://cutcorner.com.ua/components/com_jshopping/files/img_products/full_megaminx_master_pentultimate_mf8_black_2.JPG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
