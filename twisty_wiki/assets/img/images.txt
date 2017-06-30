@@ -1,0 +1,31 @@
+Picture-Sources:
+
+Logo:
+Letters: Font
+Background: http://www.sweatshoppe.org/wp-content/uploads/2012/05/halftone_pattern_black_white_1.png
+
+
+
+Ad:
+http://i2.kym-cdn.com/photos/images/original/000/326/426/506.jpg
+
+
+
+
+Rubiks Cube:
+a:
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/1200px-Rubik%27s_cube.svg.png
+
+b:
+http://www.stickpng.com/assets/images/580b585b2edbce24c47b2473.png
+
+c:
+https://t2.rbxcdn.com/46ec73dfd05d412c72764293a2956304
+
+
+
+Master Pyraminx:
+a:
+https://cdn.shopify.com/s/files/1/0169/0924/products/79209200z6x_1024x1024.jpg?v=1479698646
+
+

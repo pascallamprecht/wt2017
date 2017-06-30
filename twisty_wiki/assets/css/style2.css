@@ -1,0 +1,310 @@
+body {
+	margin-top: 0;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 0;
+}
+
+#Container {
+	background-color: black;
+	font-family: Tahoma, Geneva;
+	height: auto;
+	margin:0px;
+	border-right: 1px solid black;
+	min-height: 900px;
+}
+
+h1, p, ul {
+	margin: 0px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+header {
+	height: 5em;
+	margin-bottom: 0px;
+	background-image: url("../img/background_orig.png");
+	background-repeat: repeat-x;
+	background-position: top left;
+	background-size: 20%;
+	background-color: black;
+}
+
+header > h1 {
+	padding-top: 1.2em;
+	padding-left: 0.5em;
+	color: white;
+}
+
+#menu {
+	margin: 0;
+	padding: 0;
+	height: 40px;
+	background-color: black;
+	border: 1px solid white;
+	border-left: none;
+	border-right: none;
+}
+
+#menu ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+#menu li {
+	float: left;
+}
+
+#menu li a {
+	display: block;
+	padding: 9px;
+	color: white;
+}
+
+#menu li a:hover {
+	background-color: #444444;
+}
+
+#menu li a.active {
+	background-color: #666666;
+}
+
+nav {
+	height: auto;
+	width: 20%;
+	float: left;
+	background-color: black;
+}
+
+nav ul {
+	padding: 0px;
+	border: 2px solid black;
+}
+
+nav li {
+	list-style-type: none;
+	background-color: white;
+	padding: 0px;
+	border-bottom: 2px solid black;
+}
+
+nav li:first-child {
+	font-size: larger;
+	background-color: black;
+}
+
+nav li:first-child a {
+	color: white;
+}
+
+nav li:last-child {
+	border-bottom: none;
+}
+
+nav li a {
+	display: block;
+	padding-top: 0.5em;
+	padding-left: 1.5em;
+	padding-bottom: 0.5em;
+}
+
+nav li a:first-child {
+	padding-top: 0.75em;
+	padding-left: 1em;
+	padding-bottom: 0.75em;
+	border-bottom: 1px solid black;
+}
+
+nav li a:hover {
+	background-color: #f4f4f4;
+}
+
+nav li:first-child a:hover {
+	background-color:black;
+}
+
+nav li a::first-letter {
+	text-transform: uppercase;
+}
+
+#maincontent {
+	margin: 0;
+	height: auto;
+	min-height: 900px;
+	margin-left: 20%;
+	width: 60%;
+	background-color: #666666;
+	padding-top: 0.5em;
+}
+
+#maincontent article {
+	border: 2px white solid;
+	background-color: #444444;
+	border-radius: 1em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	padding-left: 2em;
+	padding-right: 2em;
+	margin-bottom: 0.5em;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+	color: white
+}
+
+#intro p {
+	padding-bottom: 1em;
+	text-align: justify;
+}
+
+#searchresult article:hover {
+	background-color: #555555;
+	transform: scale(1.01);
+}
+
+#searchresult article:first-child {
+	margin-top: 1em;
+}
+
+#searchresult {
+	padding-bottom: 1em;
+}
+
+#searchresult article img {
+	height: 4em;
+	float: right;
+	margin-left: 1em;
+}
+
+#maincontent p {
+	color: white;
+	text-align: justify;
+}
+
+#maincontent button, #maincontent input {
+	border: 2px solid white;
+	border-radius: 3px;
+	background-color: #666666;
+	color: white;
+	font-weight: 600;
+	height: 1.7em;
+	margin-right: 0.5em;
+}
+
+#maincontent input {
+	padding-left: 0.5em;
+	background-color: #888888;
+}
+
+#activepage button:first-child, #numberofitems button:first-child {
+	margin-left: 1em;
+} 
+
+#activepage button:disabled {
+	color: #888888;
+}
+
+#activepage {
+	float: right;
+}
+
+#activepage, #numberofitems {
+	padding-top: 0.5em;
+	padding-left: 0.2em;
+}
+
+#numberofitems button:disabled {
+	background-color: black;
+}
+
+#userinput {
+	margin: 0.5em;
+}
+
+#pictures {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	background-color: #777777;
+	padding: 1em;
+	border-radius: 1em;
+}
+
+#pictures h4 {
+	margin: 0;
+}
+
+#pictures img {
+	display: block;
+	height: 20em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#picture-caption p {
+	display: inline;
+	padding-left: 10em;
+}
+
+#picture-caption button {
+	width: 7em;
+	margin: 0;
+	float: right;
+}
+
+#picture-caption button:disabled {
+	color: #888888;
+}
+
+#picture-caption button:first-child {
+	float: left;
+}
+
+aside {
+	margin-top: 0;
+	height: auto;
+	float: right;
+	width: 20%;
+	background-color: black;
+}
+
+aside > img {
+	width: 100%;
+}
+
+footer {
+	height: 90px;
+	background-color: #888888;
+	color: white;
+	display: block;
+}
+
+footer ul {
+	list-style-type: none;
+	height: 100%;
+}
+
+footer li {
+	display: block;
+	float: left;
+	width: 24%;
+}
+
+footer p, footer a {
+	display: block;
+	font-size: 90%;
+}
+
+footer p:first-child {
+	padding-top: 1em;
+}
+
+footer p:last-child {
+	padding-bottom: 1em;
+}
+
+footer p:not(:first-child) {
+	color: black;
+}

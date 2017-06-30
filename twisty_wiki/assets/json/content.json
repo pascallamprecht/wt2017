@@ -1,0 +1,298 @@
+{
+	"articles":
+	[
+		{
+			"id": 0,
+			"tags":
+			{
+				"name": "3x3 Rubiks Cube",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "Erno Rubik",
+				"year": "1974"
+			},
+			"descriptions":
+			{
+				"short_description": "The puzzle which started it all!",
+				"full_description": "The Rubiks Cube is the first really popular Twisty Puzzle ever, but not the first one to be created. In fact, it was lagging behind an early 2x2x2 almost 11 years."
+			},
+			"links":
+			[
+				"000_a.png",
+				"000_b.png",
+				"000_c.png"
+			]
+		},
+		{
+			"id": 1,
+			"tags":
+			{
+				"name": "ShengShou Master Pyraminx",
+				"shape": "Tetrahedron",
+				"axis": "4 axis",
+				"puzzlelayers": "4 layers",
+				"turning": "Corner Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2016"
+			},
+			"descriptions":
+			{
+				"short_description": "The First Mass Produced Flat-Faced Proportional Master Pyraminx",
+				"full_description": "Previously there were only hand-made prototypes or unproportional, rounded exemplars of this puzzle."
+			},
+			"links":
+			[
+				"001_a.jpg"
+			]
+		},
+		{
+			"id": 2,
+			"tags":
+			{
+				"name": "Helicopter Dodecahedron",
+				"shape": "Dodecahedron",
+				"axis": "30 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Edge Turning",
+				"production": "Mass produced",
+				"creator": "MF8",
+				"year": "2010"
+			},
+			"descriptions":
+			{
+				"short_description": "Being part of MF8s dodecahedron-series, this puzzle was the first edge-turning dodecahedral puzzle.",
+				"full_description": "The first sample was designed by Clayton Ertley, MF8 mass-produced this puzzle in 2011. Like all 'Helicopter'-type puzzles it can jumble, but this was the first of them that showed the hidden center pieces."
+			},
+			"links":
+			[
+				"002_a.jpg",
+				"002_b.jpg",
+				"002_c.jpg",
+				"002_d.jpg"
+			]
+		},
+		{
+			"id": 3,
+			"tags":
+			{
+				"name": "Starminx",
+				"shape": "Dodecahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "MF8",
+				"year": "2009"
+			},
+			"descriptions":
+			{
+				"short_description": "This puzzle is part of MF8s dodecahedron-series, its original name was 'Starminx 1'.",
+				"full_description": "Invented by Aleh Hladzilin in 2009, this puzzle got mass-produced by MF8. It is one of 3 different puzzles which all have the same face-pattern, which is why this has an added 1 in the name for distinction. It is a deeper cut Pyraminx-Crystal."
+			},
+			"links":
+			[
+				"003_a.jpg",
+				"003_b.jpg",
+				"003_c.jpg"
+			]
+		},
+		{
+			"id": 4,
+			"tags":
+			{
+				"name": "Starminx 2",
+				"shape": "Dodecahedron",
+				"axis": "30 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Edge Turning",
+				"production": "3D Printed",
+				"creator": "Andrew Cormier",
+				"year": "2009"
+			},
+			"descriptions":
+			{
+				"short_description": "The second puzzle out of 3 all with the same face-pattern, this one being Edge Turning",
+				"full_description": "This puzzle was not only the first edge-turning dodecahedron ever, but also included 2 types of jumbling - great news, because it was released shortly before christmas by DrewSeph. It had to be made quite big to be stable. It is one of 3 different puzzles which all have the same face-pattern, which is why this has an added 2 in the name for distinction."
+			},
+			"links":
+			[
+				"004_a.jpg",
+				"004_b.jpg",
+				"004_c.jpg",
+				"004_d.jpg"
+			]
+		},
+		{
+			"id": 5,
+			"tags":
+			{
+				"name": "Starminx 3",
+				"shape": "Dodecahedron",
+				"axis": "20 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Corner Turning",
+				"production": "3D Printed",
+				"creator": "Andrew Cormier",
+				"year": "2010"
+			},
+			"descriptions":
+			{
+				"short_description": "The third installment of deeper cut dodecahedrons by Andrew Cormier, this time Corner Turning and way deeper cut",
+				"full_description": "This puzzle, also presented by DrewSeph, is way deeper cut than the other Starminxes. There are 132 visible and 311 internal pieces inside. It is one of 3 different puzzles which all have the same face-pattern, which is why this has an added 3 in the name for distinction."
+			},
+			"links":
+			[
+				"005_a.jpg",
+				"005_b.jpg"
+			]
+		},
+		{
+			"id": 6,
+			"tags":
+			{
+				"name": "Curvy Starminx",
+				"shape": "Dodecahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "MF8",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "A Starminx with curvy cuts and additional Corner pieces",
+				"full_description": "This puzzle is a variation of the Starminx 1, where the cuts were made curvy. This results in a smaller star on the face, but additional Corner Pieces with orientation. This puzzle is part of MF8s dodecahedron-series."
+			},
+			"links":
+			[
+				"006_a.jpg",
+				"006_b.jpg",
+				"006_c.jpg"
+			]
+		},
+		{
+			"id": 7,
+			"tags":
+			{
+				"name": "Dino Dodecahedron",
+				"shape": "Dodecahedron",
+				"axis": "20 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Corner Turning",
+				"production": "Mass produced",
+				"creator": "MF8",
+				"year": "2011"
+			},
+			"descriptions":
+			{
+				"short_description": "The most shallow cut and non-trivial Corner-turning dodecahedron.",
+				"full_description": "Invented in 2009 by Luke Harry and first created by Kevin Uhrik the same year, this puzzle is the equivalent of the Dino Cube on a dodecahedron. It was mass-produced by MF8 in 2011 under the misleading name 'Starminx', because it had the same face-pattern as the other 3. It is also part of MF8s dodecahedron-series."
+			},
+			"links":
+			[
+				"007_a.jpg",
+				"007_b.jpg",
+				"007_c.jpg"
+			]
+		},
+		{
+			"id": 8,
+			"tags":
+			{
+				"name": "Bauhinia Dodecahedron",
+				"shape": "Dodecahedron",
+				"axis": "20 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Corner Turning",
+				"production": "Mass produced",
+				"creator": "MF8",
+				"year": "2012"
+			},
+			"descriptions":
+			{
+				"short_description": "Also known as 'Rex Dodecahedron', which was the name given by its inventor",
+				"full_description": "Mechanically this puzzle is equivalent to a Face turning icosahedron. It was invented by Mr. Fok and is the second Corner turning dodecahedron ever made. Because the kites are symmetrical this puzzle can also jumble. Another puzzle from the MF8s dodecahedron-series."
+			},
+			"links":
+			[
+				"008_a.jpg",
+				"008_b.jpg",
+				"008_c.jpg",
+				"008_d.jpg"
+			]
+		},
+		{
+			"id": 9,
+			"tags":
+			{
+				"name": "Pentultimate",
+				"shape": "Dodecahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "2 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "MF8",
+				"year": "2016"
+			},
+			"descriptions":
+			{
+				"short_description": "The deep cut Face-turning dodecahedron, also Void",
+				"full_description": "It was first created by Jason Smith in early 2008 (seen in the 3rd picture), but unlike this version it used a knucklehead mechanism. Just like the Master Pentultimate by MF8, this puzzle is simultaniously a Void Pentultimate, because its mechanism is based on rails. In fact, the mechanism is identical, only the outer pieces are larger. This puzzle is part of MF8s dodecahedron-series."
+			},
+			"links":
+			[
+				"009_a.jpg",
+				"009_b.jpg",
+				"009_c.jpg"
+			]
+		},
+		{
+			"id": 10,
+			"tags":
+			{
+				"name": "Master Pentultimate",
+				"shape": "Dodecahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "MF8",
+				"year": "2014"
+			},
+			"descriptions":
+			{
+				"short_description": "The Master Version of the Pentultimate",
+				"full_description": "The first puzzle out of MF8s dodecahedron-series to have a rails-mechanism. The center-pieces are just caps, meaning this is the Void version at the same time."
+			},
+			"links":
+			[
+				"",
+				""
+			]
+		}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
