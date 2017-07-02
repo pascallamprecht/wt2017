@@ -63,7 +63,7 @@ function createNav(data) {
 					return 1;
 				}
 			});
-		}
+		} else {
 		if (tag_name == "axis") {
 			category_array.sort(function(a,b) {
 				var axis_a = a.replace(" axis", "");
@@ -82,7 +82,7 @@ function createNav(data) {
 		}
 		else {
 		category_array.sort();		//alles andere alphabetisch sortieren
-		}
+		} }
 		navigation_content += "<a onclick='toggleVisibility(" + category_id + "); adjustHeight()'>" + tag_name + "</a>";		//Kategoriename anfügen
 		$.each(category_array, function(tag_id, tag_value) {
 			navigation_content += "<a href='search.php?search=" + tag_value + "' data-category='" + category_id + "'>" + tag_value + "</a>";		//einzelne Tags auflisten + anfügen

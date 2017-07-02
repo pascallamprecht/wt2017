@@ -114,42 +114,335 @@ c:
 http://cutcorner.com.ua/components/com_jshopping/files/img_products/full_megaminx_master_pentultimate_mf8_black_2.JPG
 
 
+Dayan Gem 1:
+a:
+http://zcube.vip/image/catalog/cube/DY/DY-Gem-V1-03.JPG
+b:
+https://s-media-cache-ak0.pinimg.com/originals/8c/5c/4e/8c5c4e510558067ff53074e67530484f.jpg
+c:
+http://www.twistypuzzles.com/museum/large/01842-05.jpg
+d:
+http://www.twistypuzzles.com/museum/large/01842-03.jpg
 
 
+Dayan Gem 2:
+a:
+https://cdn.shopify.com/s/files/1/0708/4397/products/dayan-gem-2-black_1024x1024.jpg?v=1487630336
+b:
+http://zcube.vip/image/catalog/cube/DY/DY-Gem2-02.JPG
+c:
+http://zcube.vip/image/catalog/cube/DY/DY-Gem2-05.JPG
+d:
+https://ruwix.com/pics/puzzles/dayan-gem-puzzle-cubes-1-2-3-4.jpg
 
 
+Dayan Gem 3:
+a:
+http://www.speedcube.org/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/A/0/A01DYAQ01114-1.jpg
+b:
+http://twistypuzzles.com/museum/large/02811-01.jpg
+c:
+http://i1117.photobucket.com/albums/k597/gusbert/DaYan_Gem_III_blue_mid_turn.gif
 
 
+Dayan Gem 4:
+a:
+http://www.witeden.com/images/upload/Image/Gem-4-1.jpg
+b:
+https://s-media-cache-ak0.pinimg.com/736x/5e/c0/e8/5ec0e86ed4becabc1926d1ddc5cf73f5--rubiks-cube-twisty.jpg
+c:
+https://golloscdn.com/21097/Prod/3237269/Logo/l.jpg
 
 
+Dayan Gem 5:
+a:
+http://cdn.icebay.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/A/0/A01DYAQ01113-1.jpg
+b + c:
+http://store.tribox.com/upload/save_image/08181801_52108d7ea45d4.png
 
 
+Dayan Gem 6:
+a:
+https://ae01.alicdn.com/kf/HTB1WfUoOpXXXXbYapXXq6xXFXXX0/-font-b-Dayan-b-font-Gem-Strange-Shape-Magic-Cube-Stress-Reliever-Brain-Teaser-Speed.jpg
+b:
+http://gloimg.everbuying.net/E/2015/201502/goods-img/1423159498131-P-2420131.jpg
+c:
+https://cdn.shopify.com/s/files/1/1013/2302/products/DAGEM-06B_1_1024x1024.png?v=1461878961
+d:
+https://lh6.googleusercontent.com/-Xzl0LjkH1ag/VHEBIWWPSGI/AAAAAAAAIL4/9B0g1klPWiA/s1600/Solved2Face.jpg
 
 
+Dayan Gem 7:
+a:
+http://store.tribox.com/upload/save_image/07202329_51ea9ee5f01af.png
+b:
+http://zcube.vip/image/catalog/cube/DY/DY-Gem7-09.JPG
+c:
+http://zcube.vip/image/catalog/cube/DY/DY-Gem7-10.JPG
 
 
+Dayan Gem 8:
+a:
+http://store.tribox.com/upload/save_image/11061826_545b3edc91334.png
+b:
+https://d1ibm7nofgdn3g.cloudfront.net/dayan-dayan-gem-cube-viii-magic-cube-black-OE702TBAAJ2Y05ANMY-39355141.jpg
+c:
+http://farm9.static.flickr.com/8664/16155749322_d410e3bd57.jpg
 
 
+Ghost Cube:
+a:
+https://ae01.alicdn.com/kf/HTB1ZbBrLFXXXXa_XXXXq6xXFXXXu/2016-Newest-Nanja-font-b-Ghost-b-font-font-b-Cube-b-font-3x3-font-b.jpg
+b:
+https://s-media-cache-ak0.pinimg.com/236x/7e/a0/f9/7ea0f968a96bd5c9145123a3fdd35f66--white-bodies-twisty.jpg
+c:
+http://betweenthepagesblog.typepad.com/.a/6a0120a5924ef0970b01bb0805782f970d-pi
 
 
+Golden Cube:
+a:
+http://www.speedcubing.com/ton/collection/Skewbs/images/Fisher%27s%20Golden%20Cube.jpg
+b:
+http://tonyfisherpuzzles.net/images/gc0001.jpg
+c:
+http://tonyfisherpuzzles.net/images/33hi.jpg
 
 
+Mastermorphix:
+a:
+http://www.twistypuzzles.com/museum/large/00675-01.jpg
+b:
+http://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/Mastermorphix/MastermorphixRounded.jpg
+c:
+http://www.twistypuzzles.com/museum/large/04484-01.jpg
 
 
+SS 2x2:
+a:
+https://n3.sdlcdn.com/imgs/a/h/d/ShengShou-2x2-Speed-Cube-Puzzle-SDL129368487-1-32c0c.jpg
+b:
+https://upload.wikimedia.org/wikipedia/commons/2/2f/Pocket_cube_scrambled.jpg
+c:
+https://upload.wikimedia.org/wikipedia/commons/a/a9/Pocket_cube_twisted.jpg
 
 
+SS 3x3:
+a:
+http://www.thespeedcube.com/134-thickbox_default/shengshou-3x3-speed-cube.jpg
+b:
+http://www.eachbyte.com/media/catalog/product/cache/1/image/ac2bfb0e0f8e36e425fae6db7a2c73f5/A/0/A01SS330111W-3.jpg
 
 
+SS 4x4:
+a:
+http://kartrocket-mtp.s3.amazonaws.com/all-stores/image_jinu1992/data/shengshou-4x4-black-cubelelo-2.jpg
+b:
+http://getpuzzled.weebly.com/uploads/2/4/2/4/24240583/s759137275981834250_p8_i1_w339.jpeg
+c:
+http://www.eachbyte.com/media/catalog/product/cache/1/image/ac2bfb0e0f8e36e425fae6db7a2c73f5/A/0/A01SS4401110-2.jpg
 
 
+SS 5x5:
+a:
+http://hipopotam.eu/sklep/image/cache/data/kostki/ss_5x5/05-600x400watermark.jpg
+b:
+http://www.thespeedcube.com/83-thickbox_default/shengshou-5x5-speed-cube.jpg
+c:
+http://www.eachbyte.com/media/catalog/product/cache/1/image/ac2bfb0e0f8e36e425fae6db7a2c73f5/A/0/A01SS5501110-2.jpg
 
 
+SS 6x6:
+a:
+http://kartrocket-mtp.s3.amazonaws.com/all-stores/image_jinu1992/data/shengshou-6x6-black-cubelelo-2.jpeg
+b:
+http://www.thespeedcube.com/120-thickbox_default/shengshou-6x6-speed-cube.jpg
+c:
+http://www.eachbyte.com/media/catalog/product/cache/1/image/ac2bfb0e0f8e36e425fae6db7a2c73f5/a/0/a01ss6601110-3.jpg
 
 
+SS 7x7:
+a:
+http://www.thespeedcube.com/173-thickbox_default/shengshou-7x7-speed-cube.jpg
+b:
+http://kartrocket-mtp.s3.amazonaws.com/all-stores/image_jinu1992/data/shengshou-7x7-black-base-cubelelo-4.jpeg
+c:
+https://cdn.shopify.com/s/files/1/0169/0924/products/Shengshou7x7black_1024x1024.jpg?v=1489201391
+
+SS 8x8:
+a:
+http://kartrocket-mtp.s3.amazonaws.com/all-stores/image_jinu1992/data/shengshou-8x8-black-cubelelo-3.jpeg
+b:
+http://www.thespeedcube.com/184-thickbox_default/shengshou-8x8-speed-cube.jpg
+c:
+http://www.eachbyte.com/media/catalog/product/cache/1/image/ac2bfb0e0f8e36e425fae6db7a2c73f5/2/0/20130603130758.jpg
 
 
+SS 9x9:
+a:
+https://ae01.alicdn.com/kf/HTB1u.kqJFXXXXacXFXXq6xXFXXXa/-font-b-ShengShou-b-font-9x9x9-Magic-Cube-Professional-PVC-Stickers-cobo-Wholesale-Cubo-Magico.jpg
+b:
+http://kartrocket-mtp.s3.amazonaws.com/all-stores/image_jinu1992/data/shengshou-9x9-black-cubelelo-4.jpeg
+c:
+https://cdn.shopify.com/s/files/1/0169/0924/products/Shengshou_9x9_black_01_1024x1024.JPG?v=1489202049
 
 
+SS 10x10:
+a:
+https://cdn.shopify.com/s/files/1/0169/0924/products/Shengshou_10x10_black_1024x1024.jpg?v=1489202436
+b:
+https://www.maskecubos.com/1105-large_default/shengshou-10x10-magic-cube-black-base.jpg
+c:
+https://images-na.ssl-images-amazon.com/images/I/51oHtkQmTgL._SX466_.jpg
 
 
+SS 11x11:
+a:
+http://kartrocket-mtp.s3.amazonaws.com/all-stores/image_jinu1992/data/shengshou-11x11-cubelelo-3-min.png
+b:
+https://ae01.alicdn.com/kf/HTB14kR3NpXXXXbNaXXXq6xXFXXXN/NEW-font-b-ShengShou-b-font-font-b-11x11-b-font-Magic-Cube-Professional-PVC-Matte.jpg
+
+
+Moyu 13x13:
+a:
+http://www.dhresource.com/0x0s/f2-albu-g4-M00-29-4D-rBVaEFfHmACAXjprAANbk6dyGQs070.jpg/wholesale-moyu-13-layers-13x13x13-cube-speed.jpg
+b:
+http://cutcorner.com.ua/components/com_jshopping/files/img_products/full_13x13_moyu_black_5.JPG
+c:
+http://cdn-ak.b.st-hatena.com/entryimage/243854221-origin-1425775865.png
+
+
+SS Kilominx:
+a:
+https://thecubicle.us/images/ss2x2megaminxpre2.jpg
+b:
+https://cdn.shopify.com/s/files/1/0169/0924/products/SS2M20_1467455764_1024x1024.jpg?v=1468375577
+c:
+http://cutcorner.com.ua/components/com_jshopping/files/img_products/full_megaminx_2x2_kilominx_shengshou_black_2.JPG
+
+
+SS Megaminx:
+a:
+http://img5.lightake.com/420x420/62712/sku_62712_2.jpg
+b:
+https://images-na.ssl-images-amazon.com/images/I/71IZZH1TyTL._UX385_.jpg
+c:
+http://oddpuzzles.dk/120-thickbox_default/ecouteurs-a-isolation-sonore-shure-se210-blanc.jpg
+
+
+SS Master Kilominx:
+a:
+http://www.cubezz.com/images/201608/goods_img/4995_P_1472009101273.jpg
+b:
+http://cdn.icebay.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/A/0/A01MFAD01114-3.jpg
+c:
+http://img8.lightake.com/2016/09/1609130340156548577.jpg
+d:
+http://zcube.hk/image/catalog/cube/SO/SO-Kilominx-06.JPG
+
+
+SS Gigaminx:
+a:
+http://kartrocket-mtp.s3.amazonaws.com/all-stores/image_jinu1992/data/shengshou-gigaminx-black-cubelelo-2.jpeg
+b:
+https://des.gearbest.com/uploads/pdm-desc-pic/Electronic/image/2016/03/17/1458199596338101.jpg
+c:
+http://cutcorner.com.ua/components/com_jshopping/files/img_products/full_megaminx_gigaminx_shengshou_black_3.JPG
+
+
+SS Elite Kilominx:
+a:
+https://i.redd.it/h8lhyu86a1sy.jpg
+b:
+https://strefa-kostek.pl/13162-thickbox_default/shengshou-elite-kilominx.jpg
+c:
+https://strefa-kostek.pl/13165-thickbox_default/shengshou-elite-kilominx.jpg
+
+
+SS Teraminx:
+a:
+https://images-na.ssl-images-amazon.com/images/I/71Lb0TzfRrL._SY355_.jpg
+b:
+https://cdn.shopify.com/s/files/1/0708/4397/products/Shengshou-Teraminx-Cube-Puzzle_1024x1024.jpg?v=1496199555
+c:
+https://cdn.shopify.com/s/files/1/1146/6180/products/t3_1a121e7b-3845-4f34-85d7-6dfec3f5c57c_1024x1024.jpg?v=1489681874
+
+
+Clover Cube:
+a:
+https://www.knobelbox.com/media/image/63/51/27/KB0140139_1_600x600.jpg
+b:
+https://cdn.shopify.com/s/files/1/1477/0912/products/product-image-169754248_1024x1024.jpg?v=1484863681
+c:
+https://ae01.alicdn.com/kf/HTB1YdMvOXXXXXasXpXXq6xXFXXXt/Clover-Cube-by-Very-Puzzle-.jpg
+
+
+Clover Dodecahedron:
+a:
+http://www.verypuzzle.com/image/catalog/products/CloverDodecahedron/cd1.jpg
+b:
+http://www.zcube.hk/image/catalog/cube/VP/VP-12-Clover-03.JPG
+c:
+http://www.verypuzzle.com/image/catalog/products/CloverDodecahedron/cd2.jpg
+
+
+Clover Octahedron:
+a:
+http://www.verypuzzle.com/image/cache/catalog/products/CloverOctahedron/CO1-500x500.jpg
+b:
+http://magiccubechina.com/pic/big/1045_1.jpg
+c:
+http://zcube.hk/image/catalog/cube/VP/VP-Clover-8-05.JPG
+d:
+https://pbs.twimg.com/media/DBt4GEKV0AExC7f.jpg
+e:
+http://www.verypuzzle.com/image/catalog/products/CloverOctahedron/COF1.jpg
+
+
+Clover icosahedron:
+a:
+http://www.verypuzzle.com/image/catalog/products/CloverIcosahedron/cid11.jpg
+b:
+http://www.verypuzzle.com/image/catalog/products/CloverIcosahedron/cid13.jpg
+c:
+http://www.verypuzzle.com/image/catalog/products/CloverIcosahedron/cid12.jpg
+d:
+http://www.zcube.hk/image/catalog/cube/VP/VP-Clover-20-08.JPG
+
+
+Rex Cube:
+a:
+http://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/BlueMagic/BlueMagicPhoto.jpg
+b:
+https://images-na.ssl-images-amazon.com/images/I/51nW3k1PjmL.jpg
+c:
+https://www.cubikon.de/documents/image/91/9192/REX-CUBE-9192-5.jpg
+
+
+Master Skewb:
+a:
+https://ae01.alicdn.com/kf/HTB1KWIIHVXXXXceXVXXq6xXFXXXK/2014-New-LanLan-8-Axis-Master-Skewb-Magic-Cube-Black-Puzzles-Twist-Magico-Square-Cubo-Learning.jpg
+b:
+https://ae01.alicdn.com/kf/HTB18SESIpXXXXXgaXXXq6xXFXXXP/New-Strange-Shape-LanLan-8-Axis-Master-Skewb-Magic-Cube-56mm-Speed-Puzzles-Twist-Square-Cubo.jpg
+c:
+http://cutcorner.com.ua/components/com_jshopping/files/img_products/full_skewb_master_lanlan_black_2.JPG
+d:
+https://ftsfqw-dm2306.files.1drv.com/y3mCzDSVvSd78uLDhM2j8caN4MO02MNnajYncpkraKI9YRnZkgy-yS0MP89nBtoHZOc6UccmKlRQPYelp07aOqs_-daHI1oM68IgsAinG2hkRTYD2gR8S8v3Myd80ddK_bQ1io5PXSwrYS6nxedt-8ulP6dBiX43rCi1pP1g-2gWHI/DayanMasterSkewb-f-slice%20Kopie.png?psid=1
+
+
+Curvy Copter:
+a:
+http://i1100.photobucket.com/albums/g410/teslandgauss/speed%20cube/lanlan/butterfly/1_zps10adc148.jpg
+b:
+https://ruwix.com/pics/puzzles/curvy-copter-puzzle-cube.jpg
+c:
+https://lifestyle.brando.com/prod_img/EEIQCU001400_3_640.jpg
+
+
+Helicopter Cube:
+a:
+https://ae01.alicdn.com/kf/HTB1qAxJKVXXXXXKaXXXq6xXFXXXa/X-font-b-Cube-b-font-62mm-Square-font-b-Helicopter-b-font-font-b-Cube.jpg
+b:
+https://s-media-cache-ak0.pinimg.com/236x/ce/53/df/ce53dfb606333f8ca2cde8b0c423bd5f--rubiks-cube-helicopters.jpg
+c:
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Helicube-4.jpg/220px-Helicube-4.jpg
 

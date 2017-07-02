@@ -275,6 +275,887 @@
 				"010_b.jpg",
 				"010_c.jpg"
 			]
+		},
+		{
+			"id": 11,
+			"tags":
+			{
+				"name": "Dayan Gem 1",
+				"shape": "Tetrakaidecahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Edge Turning",
+				"production": "Mass produced",
+				"creator": "Dayan",
+				"year": "2011"
+			},
+			"descriptions":
+			{
+				"short_description": "Edge-turning, jumbling puzzle, Part of Dayans Gem series",
+				"full_description": "The shape of this puzzle is based on a truncated octahedron. It can jumble because its edge-turning, similarly to the Helicopter Cube, which geometry its based on. Also available stickerless, although unusually the inner pieces don't add to the solving challenge"
+			},
+			"links":
+			[
+				"011_a.jpg",
+				"011_b.jpg",
+				"011_c.jpg",
+				"011_d.jpg"
+			]
+		},
+		{
+			"id": 12,
+			"tags":
+			{
+				"name": "Dayan Gem 2",
+				"shape": "Truncated Octahedron",
+				"axis": "18 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Hybrid",
+				"production": "Mass produced",
+				"creator": "Dayan",
+				"year": "2011"
+			},
+			"descriptions":
+			{
+				"short_description": "Jumbling puzzle with 2 different types of turns, Part of Dayans Gem series",
+				"full_description": "The sides of this puzzle are made up of squares and truncated triangles, which creates a non-platonic shape which can be reached by extending the hexagonal sides of the Dayan Gem 1. It is edge- and face-turning, and also jumbles on its edge-turns."
+			},
+			"links":
+			[
+				"012_a.jpg",
+				"012_b.jpg",
+				"012_c.jpg",
+				"012_d.jpg"
+			]
+		},
+		{
+			"id": 12,
+			"tags":
+			{
+				"name": "Dayan Gem 3",
+				"shape": "Tetrakaidecahedron",
+				"axis": "14 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "Dayan",
+				"year": "2010"
+			},
+			"descriptions":
+			{
+				"short_description": "Non-jumbling puzzle with 2 types of turns, same shape as Gem 1, Part of Dayans Gem series",
+				"full_description": "Although this puzzle has the same shape as the Gem 1 from the same series, it is very different due to beeing a hybrid and face-turning. Designed by Scott Bedard under the name of 'Concept-11' it has the exact same face-pattern like the Gem 4."
+			},
+			"links":
+			[
+				"013_a.jpg",
+				"013_b.jpg",
+				"013_c.gif"
+			]
+		},
+		{
+			"id": 14,
+			"tags":
+			{
+				"name": "Dayan Gem 4",
+				"shape": "Tetrakaidecahedron",
+				"axis": "8 axis",
+				"puzzlelayers": "4 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "Dayan",
+				"year": "2011"
+			},
+			"descriptions":
+			{
+				"short_description": "Non-jumbling, deep-cut hybrid puzzle based on a 4 layer face-turning Octahedron, Part of Dayans Gem series",
+				"full_description": "Looks exactly like the Dayan Gem 3, but it only has one type of move. This puzzle has the same face-turning hexagons, but instead of the turning squares its also deep-cut."
+			},
+			"links":
+			[
+				"014_a.jpg",
+				"014_b.jpg",
+				"014_c.jpg"
+			]
+		},
+		{
+			"id": 15,
+			"tags":
+			{
+				"name": "Dayan Gem 5",
+				"shape": "Truncated Octahedron",
+				"axis": "8 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "Dayan",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "Shape-mod of the F-Skewb, Part of Dayans Gem series",
+				"full_description": "Based on a lower order Master Skewb, this puzzle doesn't jumble nor shapeshift. The stickerless version makes the solve harder because internal pieces have color too."
+			},
+			"links":
+			[
+				"015_a.jpg",
+				"015_b.jpg",
+				"015_c.jpg"
+			]
+		},
+		{
+			"id": 16,
+			"tags":
+			{
+				"name": "Dayan Gem 6",
+				"shape": "Alternate Truncated Triakis Octahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "5 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "Dayan",
+				"year": "2014"
+			},
+			"descriptions":
+			{
+				"short_description": "Variant of the Wheel of Wisdom, looks like a combination of the Pyraminx Crystal and a football, Part of Dayans Gem series",
+				"full_description": "Invented by Daqing Bao, this 30 sided puzzle with 6 octahedrons and 24 pentagonal faces looks insanely complicated. If the Dayan Wheel of Wisdom would be a Megaminx, this would be the Pyraminx Crystal."
+			},
+			"links":
+			[
+				"016_a.jpg",
+				"016_b.jpg",
+				"016_c.png",
+				"016_d.jpg"
+			]
+		},
+		{
+			"id": 17,
+			"tags":
+			{
+				"name": "Dayan Gem 7",
+				"shape": "Chamfered Cube",
+				"axis": "18 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "Dayan",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The principle of a Cross Cube brought to a Curvy Copter, Part of Dayans Gem series",
+				"full_description": "Although they might look like it, the hexagonal faces aren't regular hexagons. The hexagon-turns are equivalent to Curvy Copter-turns, and the square sides represent the Cross section of this puzzle."
+			},
+			"links":
+			[
+				"017_a.png",
+				"017_b.jpg",
+				"017_c.jpg"
+			]
+		},
+		{
+			"id": 18,
+			"tags":
+			{
+				"name": "Dayan Gem 8",
+				"shape": "Truncated Tetrahedron",
+				"axis": "8 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "Dayan",
+				"year": "2014"
+			},
+			"descriptions":
+			{
+				"short_description": "Also called the Master Tetraminx, Part of Dayans Gem series",
+				"full_description": "Works similar to a Professor Pyraminx, but the cut-depth is different which results in different pieces. Like most other Dayan Gems it was invented by Daqing Bao."
+			},
+			"links":
+			[
+				"018_a.png",
+				"018_b.jpg",
+				"018_c.jpg"
+			]
+		},
+		{
+			"id": 19,
+			"tags":
+			{
+				"name": "Ghost Cube",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "Mefferts",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "Offset and midturn-reshape of a 3x3x3 Rubiks Cube, solved by shape",
+				"full_description": "First created by Virust Cube, this puzzle had a high demand from the beginning, giving a unique look and solving experience, which resulted in it being mass-produced. The mechanism is just a normal Rubiks cube."
+			},
+			"links":
+			[
+				"019_a.jpg",
+				"019_b.jpg",
+				"019_c.jpg"
+			]
+		},
+		{
+			"id": 20,
+			"tags":
+			{
+				"name": "Golden Cube",
+				"shape": "Cube",
+				"axis": "4 axis",
+				"puzzlelayers": "2 layers",
+				"turning": "Corner Turning",
+				"production": "Mass produced",
+				"creator": "Mefferts",
+				"year": "2009"
+			},
+			"descriptions":
+			{
+				"short_description": "The predecessor of the Ghost Cube, first created by Tony Fisher",
+				"full_description": "The first prototype was already created in 1999 by Tony Fisher. Technically it is a Ghost Skewb, but was created way before other Ghost-type puzzles. Every piece is uniquely shaped, so the puzzle is solved by shape."
+			},
+			"links":
+			[
+				"020_a.jpg",
+				"020_b.jpg",
+				"020_c.jpg"
+			]
+		},
+		{
+			"id": 21,
+			"tags":
+			{
+				"name": "Mastermorphix",
+				"shape": "Tetrahedron",
+				"axis": "6 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "Mefferts",
+				"year": "2008"
+			},
+			"descriptions":
+			{
+				"short_description": "Again another shape transformation of a cube by Tony Fisher",
+				"full_description": "This puzzle was already prototyped in 1991 by Tony Fisher, but not released until 2008. Just like the Ghost Cube its mechanism is a normal Rubiks Cube. The solving is different though, because the centers have an orientation. Today there are also more rounded versions available, and Traiphum has made variants up to a 9x9x9 version."
+			},
+			"links":
+			[
+				"021_a.jpg",
+				"021_b.jpg",
+				"021_c.jpg"
+			]
+		},
+		{
+			"id": 22,
+			"tags":
+			{
+				"name": "ShengShou 2x2x2",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "2 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The 2x2x2 cube by notorious Knock-Off-company ShengShou",
+				"full_description": "Up to 6x6 all ShengShou cubes are very similar to the V-Cube ones, which is why they are referred to as 'Knock-Offs'."
+			},
+			"links":
+			[
+				"022_a.jpg",
+				"022_b.jpg",
+				"022_c.jpg"
+			]
+		},
+		{
+			"id": 23,
+			"tags":
+			{
+				"name": "ShengShou 3x3x3",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The 3x3x3 cube by notorious Knock-Off-company ShengShou",
+				"full_description": "Up to 6x6 all ShengShou cubes are very similar to the V-Cube ones, which is why they are referred to as 'Knock-Offs'."
+			},
+			"links":
+			[
+				"023_a.jpg",
+				"023_b.jpg"
+			]
+		},
+		{
+			"id": 24,
+			"tags":
+			{
+				"name": "ShengShou 4x4x4",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "4 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The 4x4x4 cube by notorious Knock-Off-company ShengShou",
+				"full_description": "Up to 6x6 all ShengShou cubes are very similar to the V-Cube ones, which is why they are referred to as 'Knock-Offs'."
+			},
+			"links":
+			[
+				"024_a.jpg",
+				"024_b.jpeg",
+				"024_c.jpg"
+			]
+		},
+		{
+			"id": 25,
+			"tags":
+			{
+				"name": "ShengShou 5x5x5",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "5 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The 5x5x5 cube by notorious Knock-Off-company ShengShou",
+				"full_description": "Up to 6x6 all ShengShou cubes are very similar to the V-Cube ones, which is why they are referred to as 'Knock-Offs'."
+			},
+			"links":
+			[
+				"025_a.jpg",
+				"025_b.jpg",
+				"025_c.jpg"
+			]
+		},
+		{
+			"id": 26,
+			"tags":
+			{
+				"name": "ShengShou 6x6x6",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "6 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The 6x6x6 cube by notorious Knock-Off-company ShengShou",
+				"full_description": "Up to 6x6 all ShengShou cubes are very similar to the V-Cube ones, which is why they are referred to as 'Knock-Offs'."
+			},
+			"links":
+			[
+				"026_a.jpeg",
+				"026_b.jpg",
+				"026_c.jpg"
+			]
+		},
+		{
+			"id": 27,
+			"tags":
+			{
+				"name": "ShengShou 7x7x7",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "7 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The 7x7x7 cube by ShengShou",
+				"full_description": "The first mass-produced cubic 7x7x7, but V-Cube claims they invented the mechanism first."
+			},
+			"links":
+			[
+				"027_a.jpg",
+				"027_b.jpeg",
+				"027_c.jpg"
+			]
+		},
+		{
+			"id": 28,
+			"tags":
+			{
+				"name": "ShengShou 8x8x8",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "8 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The 8x8x8 cube by ShengShou",
+				"full_description": "The first mass-produced cubic 8x8x8, but V-Cube claims they invented the mechanism first."
+			},
+			"links":
+			[
+				"028_a.jpeg",
+				"028_b.jpg",
+				"028_c.jpg"
+			]
+		},
+		{
+			"id": 29,
+			"tags":
+			{
+				"name": "ShengShou 9x9x9",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "9 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The 9x9x9 cube by ShengShou",
+				"full_description": "The first mass-produced cubic 9x9x9, but V-Cube claims they invented the mechanism first."
+			},
+			"links":
+			[
+				"029_a.jpg",
+				"029_b.jpeg",
+				"029_c.jpg"
+			]
+		},
+		{
+			"id": 30,
+			"tags":
+			{
+				"name": "ShengShou 10x10x10",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "10 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The 10x10x10 cube by ShengShou",
+				"full_description": "The first mass-produced cubic 10x10x10, but V-Cube claims they invented the mechanism first."
+			},
+			"links":
+			[
+				"030_a.jpg",
+				"030_b.jpg",
+				"030_c.jpg"
+			]
+		},
+		{
+			"id": 31,
+			"tags":
+			{
+				"name": "ShengShou 11x11x11",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "11 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The 11x11x11 cube by ShengShou",
+				"full_description": "The first mass-produced cubic 11x11x11, but V-Cube claims they invented the mechanism first."
+			},
+			"links":
+			[
+				"031_a.png",
+				"031_b.jpg"
+			]
+		},
+		{
+			"id": 32,
+			"tags":
+			{
+				"name": "MoYu",
+				"shape": "Cube",
+				"axis": "6 axis",
+				"puzzlelayers": "13 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "MoYu",
+				"year": "2014"
+			},
+			"descriptions":
+			{
+				"short_description": "Currently the largest mass-produced rubiks-like twisty puzzle available to buy",
+				"full_description": "Often described like 'Just as smooth like their 7x7', MoYu really surprised the Twisty Puzzling community when releasing this puzzle. Never before seen stability and the impressive look made this puzzle despite its high price tag a best-seller."
+			},
+			"links":
+			[
+				"032_a.jpg",
+				"032_b.jpg",
+				"032_c.png"
+			]
+		},
+		{
+			"id": 33,
+			"tags":
+			{
+				"name": "ShengShou Kilominx",
+				"shape": "Dodecahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "2 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2016"
+			},
+			"descriptions":
+			{
+				"short_description": "The dodecahedral equivalent of a 2x2x2 Cube",
+				"full_description": "Based on the mechanism of a Megaminx, this puzzle hides all the central edges and center pieces, resulting in the possibility of parity."
+			},
+			"links":
+			[
+				"033_a.jpg",
+				"033_b.jpg",
+				"033_c.jpg"
+			]
+		},
+		{
+			"id": 34,
+			"tags":
+			{
+				"name": "ShengShou Megaminx",
+				"shape": "Dodecahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2013"
+			},
+			"descriptions":
+			{
+				"short_description": "The dodecahedral equivalent of a 3x3x3 Cube",
+				"full_description": "This puzzle has the same type of pieces like a 3x3x3, and even the inner cuts are designed in the same way as a Rubiks Cube, only spherical."
+			},
+			"links":
+			[
+				"034_a.jpg",
+				"034_b.jpg",
+				"034_c.jpg"
+			]
+		},
+		{
+			"id": 35,
+			"tags":
+			{
+				"name": "ShengShou Master Kilominx",
+				"shape": "Dodecahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "4 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2016"
+			},
+			"descriptions":
+			{
+				"short_description": "The dodecahedral equivalent of a 4x4x4 Cube",
+				"full_description": "Based on the mechanism of a Gigaminx, this puzzle hides all the central edges and center pieces, resulting in the possibility of parity."
+			},
+			"links":
+			[
+				"035_a.jpg",
+				"035_b.jpg",
+				"035_c.jpg",
+				"035_d.jpg"
+			]
+		},
+		{
+			"id": 36,
+			"tags":
+			{
+				"name": "ShengShou Gigaminx",
+				"shape": "Dodecahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "5 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2016"
+			},
+			"descriptions":
+			{
+				"short_description": "The dodecahedral equivalent of a 5x5x5 Cube",
+				"full_description": "This puzzle has the same type of pieces like a 5x5x5, and even the inner cuts are designed in the same way as in that cube, only spherical."
+			},
+			"links":
+			[
+				"036_a.jpeg",
+				"036_b.jpg",
+				"036_c.jpg"
+			]
+		},
+		{
+			"id": 37,
+			"tags":
+			{
+				"name": "ShengShou Elite Kilominx",
+				"shape": "Dodecahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "6 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2017"
+			},
+			"descriptions":
+			{
+				"short_description": "The dodecahedral equivalent of a 6x6x6 Cube",
+				"full_description": "Based on the mechanism of a Teraminx, this puzzle hides all the central edges and center pieces, resulting in the possibility of parity."
+			},
+			"links":
+			[
+				"037_a.jpg",
+				"037_b.jpg",
+				"037_c.jpg"
+			]
+		},
+		{
+			"id": 38,
+			"tags":
+			{
+				"name": "ShengShou Teraminx",
+				"shape": "Dodecahedron",
+				"axis": "12 axis",
+				"puzzlelayers": "7 layers",
+				"turning": "Face Turning",
+				"production": "Mass produced",
+				"creator": "ShengShou",
+				"year": "2017"
+			},
+			"descriptions":
+			{
+				"short_description": "The dodecahedral equivalent of a 7x7x7 Cube",
+				"full_description": "This puzzle has the same type of pieces like a 7x7x7, and even the inner cuts are designed in the same way as in that cube, only spherical."
+			},
+			"links":
+			[
+				"038_a.jpg",
+				"038_b.jpg",
+				"038_c.jpg"
+			]
+		},
+		{
+			"id": 39,
+			"tags":
+			{
+				"name": "VeryPuzzle Clover Cube",
+				"shape": "Cube",
+				"axis": "24 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Edge Turning",
+				"production": "Mass produced",
+				"creator": "VeryPuzzle",
+				"year": "2016"
+			},
+			"descriptions":
+			{
+				"short_description": "Being part of VeryPuzzles Clover series, this puzzle has 2 axis per edge, resulting in a unique look and jumbling experience",
+				"full_description": "It can be seen as a higher order Curvy Copter, but instead of 1 axis per edge this has 2, but next to each other. This creates never before seen pieces, a jumbling only puzzle and quite a mess when scrambled."
+			},
+			"links":
+			[
+				"039_a.jpg",
+				"039_b.jpg",
+				"039_c.jpg"
+			]
+		},
+		{
+			"id": 40,
+			"tags":
+			{
+				"name": "VeryPuzzle Clover Dodecahedron",
+				"shape": "Dodecahedron",
+				"axis": "60 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Edge Turning",
+				"production": "Mass produced",
+				"creator": "VeryPuzzle",
+				"year": "2017"
+			},
+			"descriptions":
+			{
+				"short_description": "Being part of VeryPuzzles Clover series, this puzzle has 2 axis per edge, resulting in a unique look and jumbling experience",
+				"full_description": "Being familiar to the Clover Cube, this puzzle has 2 axis next to each other per edge. This creates never before seen pieces, a jumbling only puzzle and quite a mess when scrambled."
+			},
+			"links":
+			[
+				"040_a.jpg",
+				"040_b.jpg",
+				"040_c.jpg"
+			]
+		},
+		{
+			"id": 41,
+			"tags":
+			{
+				"name": "VeryPuzzle Clover Octahedron",
+				"shape": "Octahedron",
+				"axis": "24 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Edge Turning",
+				"production": "Mass produced",
+				"creator": "VeryPuzzle",
+				"year": "2017"
+			},
+			"descriptions":
+			{
+				"short_description": "Being part of VeryPuzzles Clover series, this puzzle has 2 axis per edge, resulting in a unique look and jumbling experience",
+				"full_description": "Being familiar to the Clover Cube, this puzzle has 2 axis next to each other per edge. This creates never before seen pieces, a jumbling only puzzle and quite a mess when scrambled. There also exists a fragmentation-variant of this puzzle, unbandaging some of the jumbling (seen in the last picture)."
+			},
+			"links":
+			[
+				"041_a.jpg",
+				"041_b.jpg",
+				"041_c.jpg",
+				"041_d.jpg",
+				"041_e.jpg"
+			]
+		},
+		{
+			"id": 42,
+			"tags":
+			{
+				"name": "VeryPuzzle Clover Icosahedron",
+				"shape": "Icosahedron",
+				"axis": "24 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Edge Turning",
+				"production": "Mass produced",
+				"creator": "VeryPuzzle",
+				"year": "2017"
+			},
+			"descriptions":
+			{
+				"short_description": "Being part of VeryPuzzles Clover series, this puzzle has 2 axis per edge, resulting in a unique look and jumbling experience",
+				"full_description": "Being familiar to the Clover Cube, this puzzle has 2 axis next to each other per edge. This creates never before seen pieces, a jumbling only puzzle and quite a mess when scrambled. Additionally there are non-jumbling turns possible on the corners."
+			},
+			"links":
+			[
+				"042_a.jpg",
+				"042_b.jpg",
+				"042_c.jpg",
+				"042_d.jpg"
+			]
+		},
+		{
+			"id": 43,
+			"tags":
+			{
+				"name": "Rex Cube",
+				"shape": "Cube",
+				"axis": "8 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Corner Turning",
+				"production": "Mass produced",
+				"creator": "Mefferts",
+				"year": "2009"
+			},
+			"descriptions":
+			{
+				"short_description": "A deeper cut Dino-Cube with centers and wings",
+				"full_description": "This puzzle can be described as a deeper cut Dino Cube, as well as a Master Skewb without its Corners. Because the cuts are curvy, a set of pieces is created which couldnt exist with plain cuts."
+			},
+			"links":
+			[
+				"043_a.jpg",
+				"043_b.jpg",
+				"043_c.jpg"
+			]
+		},
+		{
+			"id": 44,
+			"tags":
+			{
+				"name": "Master Skewb",
+				"shape": "Cube",
+				"axis": "8 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Corner Turning",
+				"production": "Mass produced",
+				"creator": "LanLan",
+				"year": "2010"
+			},
+			"descriptions":
+			{
+				"short_description": "A Rex Cube with visible corners, or the Master version of a Skewb",
+				"full_description": "A patent for this puzzle was already filed in the 1980s by Aleksandr Ordynets, but he had no working prototype. The first working prototype was only created over 20 years later by Katsuhiko Okamoto in 2003, and mass-produced by LanLan in 2010. Normally a Master Skewb would be based mechanically on a Skewb, but this Master Skewb is based on the mechanism of a Rex Cube with added Corners."
+			},
+			"links":
+			[
+				"044_a.jpg",
+				"044_b.jpg",
+				"044_c.jpg",
+				"044_d.png"
+			]
+		},
+		{
+			"id": 45,
+			"tags":
+			{
+				"name": "Curvy Copter",
+				"shape": "Cube",
+				"axis": "12 axis",
+				"puzzlelayers": "3 layers",
+				"turning": "Edge Turning",
+				"production": "Mass produced",
+				"creator": "Mefferts",
+				"year": "2011"
+			},
+			"descriptions":
+			{
+				"short_description": "A helicopter Cube with Curvy Cuts, which makes the hidden center pieces visible",
+				"full_description": "Developed by Ton van der Zanden, this puzzle is considered a 'Must-Have' for many Cubers because of its smooth turning, unique solving experience and beautiful appearance."
+			},
+			"links":
+			[
+				"045_a.jpg",
+				"045_b.jpg",
+				"045_c.jpg"
+			]
 		}
 	]
 }
